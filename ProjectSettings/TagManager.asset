@@ -3,7 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Projectile
+  - Tower
+  - Attacking
+  - Kingdom
+  - Path
+  - CamoEnemy
+  - PlayerData
+  - PlayerData
+  - UserUI
+  - TowerUI
+  - AerialEnemy
+  - AerialEnemy(C)
+  - AerialEnemy
+  - AerialEnemy(C)
+  - Farm
+  - Undefined
+  - Spike
   layers:
   - Default
   - TransparentFX
@@ -11,7 +29,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Tower Info
   - 
   - 
   - 
@@ -49,4 +67,7 @@ TagManager:
     locked: 0
   - name: FG
     uniqueID: 2155238539
+    locked: 0
+  - name: Animations
+    uniqueID: 4105390703
     locked: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c908d3f95ae8efd4d846a528adcfe9c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tower1: {fileID: 6883139559379075794, guid: 8cedcf7b8750f15409a54fed553f33f7, type: 3}
+  - tower2: {fileID: 6786883107750328219, guid: 8cedcf7b8750f15409a54fed553f33f7, type: 3}
+  - tower3: {fileID: -6820433350918298589, guid: 8cedcf7b8750f15409a54fed553f33f7, type: 3}
+  - tower4: {fileID: -4507236454327951202, guid: 8cedcf7b8750f15409a54fed553f33f7, type: 3}
+  - tower5: {fileID: -3964875826416683066, guid: 8cedcf7b8750f15409a54fed553f33f7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

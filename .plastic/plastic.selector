@@ -1,0 +1,3 @@
+rep "KingdomTD@Sebastian_Deluca@cloud"
+  path "/"
+    smartbranch "/main"

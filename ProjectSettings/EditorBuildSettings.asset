@@ -6,9 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/KTD_MainMenu.unity
+    path: Assets/Scripts/Scenes/KTD_MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/KTD_ArtusMap.unity
+    path: Assets/Scripts/Scenes/KTD_ArtusMap.unity
     guid: 4a1b337dea05eb44daf0eb16b876a94b
+  - enabled: 1
+    path: Assets/Scripts/Scenes/KTD_Tutorial.unity
+    guid: acf87e8a84441de46b6f668c463fe692
+  - enabled: 1
+    path: Assets/Scripts/Scenes/KTD_Demia.unity
+    guid: 41264333da0980d49a25d39bcce596c1
+  - enabled: 1
+    path: Assets/Scripts/Scenes/KTD_Tiber.unity
+    guid: 1c0bb033f74362f41bab2ac535989910
   m_configObjects: {}

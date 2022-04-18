@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2422718615936013344
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4801426620802275912}
+  - component: {fileID: 4773071522587157775}
+  m_Layer: 0
+  m_Name: GameAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4801426620802275912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2422718615936013344}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.24115922, y: 6.941677, z: -4.3515983}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4773071522587157775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2422718615936013344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d58de83378e7cd3448bcd53471c333b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pfDeath: {fileID: 284189999875801994, guid: e07a8803ca5e9134484f254bbf3ee67e, type: 3}
+  pfArrow: {fileID: 7150938581493485860, guid: aebf78c9f8d0a1c48b0a3a57fa1e252e, type: 3}
+  pfTrap: {fileID: 6636473952806039050, guid: 454e9a714ec02394b9a20260e4ebf10c, type: 3}
+  pfJavelin: {fileID: 7534620753557374303, guid: 950f61ca7c43e4c43a4fd362887940e6, type: 3}
+  pfFireball: {fileID: 6167073072849272774, guid: 75f11dfabc007d84dad923b37db9c7e9, type: 3}
+  pfCannonball: {fileID: 9202447609326400720, guid: 700bfdc84d1c7d941a8b81f0167fafcd, type: 3}
+  pfMortarCannonball: {fileID: 7841423118054984450, guid: 6abab891f998ca24ba37f51f7e998741, type: 3}
+  pfArcherTower: {fileID: 4981650942541814407, guid: a5e644ae5e72e9d459d4a8755c1a07b5, type: 3}
+  pfCannonTower: {fileID: 9172773077085596239, guid: 4925929d6e0a425479c3839880958182, type: 3}
+  pfBallistaTower: {fileID: 9119251752987053179, guid: b981d69485ba3c24a977318892031a3c, type: 3}
+  pfTrapper: {fileID: 2258844985719412898, guid: 007386178e039be40bfecb6e1d695369, type: 3}
+  pfMortarTower: {fileID: 4307205977338822369, guid: ce1899d4458ecd24fa272c4781e3ab41, type: 3}
+  pfFarmTower: {fileID: 5857631196479518152, guid: 349b7abcdddf6a54c91cf9c7f99b22cd, type: 3}
+  pfWarmageTower: {fileID: 6449672848773332989, guid: e277805e67a93f548b265f6037bc9e72, type: 3}
+  pfSpearmanTower: {fileID: 2923082963948312658, guid: 680794845e58f894d9cc9b8d84c94138, type: 3}
+  pfGladiator: {fileID: 815187769793594569, guid: e4f8b9d3f8cefdf47a72603aabf396e0, type: 3}
+  pfBandit: {fileID: 1930893550508664860, guid: ebaeb335eb959724488557a639c5ef33, type: 3}
+  pfHotAirBalloon: {fileID: 8656548803797641381, guid: 59cd1c91846624742bc0b62f6da31914, type: 3}
+  pfGiant: {fileID: 1228403075073911871, guid: b5c41313654e6e044a0cd82170e4475c, type: 3}
+  pfSkeleton: {fileID: 3341520395814291542, guid: fbb8044614892da418a0bd62d42b775e, type: 3}
+  pfArchmage: {fileID: 7539353876681990091, guid: 6e1d6f7df8f24744b8fe05fd318b17f1, type: 3}
+  pfDragon: {fileID: 8528890993170271348, guid: 558452e0bd045f4469fc0afd28345ea5, type: 3}
+  pfDemon: {fileID: 3786414432538814960, guid: a2844753baeac214e93e47d04ed45198, type: 3}
